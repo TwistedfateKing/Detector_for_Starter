@@ -1,5 +1,5 @@
 # Faster r-cnn
- * >>>>[jwyang/faster](https://github.com/jwyang/faster-rcnn.pytorch)<<<< 이거 제일 좋음
+ * \>>>>[jwyang/faster](https://github.com/jwyang/faster-rcnn.pytorch)<<<< 이거 제일 좋음
  
  주의사항
  1. mkdir data 생성필요
