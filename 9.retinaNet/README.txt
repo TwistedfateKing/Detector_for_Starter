@@ -2,6 +2,9 @@ retina net
 
 https://github.com/qqadssp/RetinaNet-Pytorch
 
+checkpoint 폴더생성
+checkpoint 폴더내 pretrained weight 복사
+
 datasets안에 encoder.py 
 
         boxes = []
